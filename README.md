@@ -30,6 +30,22 @@ Para generar una versión de producción:
 npm run build
 ```
 
+
+Para ejecutar la version de producción:
+
+```bash
+npm run preview
+```
+
+
+## Demo
+
+Url de la demo de la aplicación desplegada en vercel:
+
+```text
+https://teclab-programacion-web.vercel.app/
+```
+
 ## Datos de CoinGecko y transformación
 
 El servicio `src/services/cripto.ts` consulta el endpoint Simple Price de CoinGecko:
