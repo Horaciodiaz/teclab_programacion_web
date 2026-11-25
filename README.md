@@ -109,3 +109,12 @@ npm test -- --run src/services/cripto.test.ts
 - CoinGecko Simple Price API
 - Vitest y React Testing Library
 - Zustand para guardar favoritos
+
+
+## Verificación final
+
+- **Pruebas ejecutadas:** `npm run test`. Todos los tests finalizaron correctamente.
+- **Build:** generado correctamente mediante `npm run build`.
+- **Preview:** comprobado mediante `npm run preview`, verificando el funcionamiento de la aplicación.
+- **Despliegue:** realizado correctamente en Vercel.
+- **Fecha de verificación:** 25/11/2026.
